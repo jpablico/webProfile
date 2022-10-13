@@ -19,4 +19,13 @@ body {
     display: flex;
     flex-direction: row;
     list-style-type: none;
+    gap: 1rem;
+}
+.main-CenterTxt {
+    display: flex;
+    flex-direction: row;
+}
+.mCt-Portrait  {
+    max-width: fit-content;
+    max-height: 20rem;
 }

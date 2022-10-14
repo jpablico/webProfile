@@ -1,8 +1,17 @@
+/*
+Color Pallete
+    --raisin-black: #252323ff;
+    --slate-gray: #70798cff;
+    --isabelline: #f5f1edff;
+    --bone: #dad2bcff;
+    --grullo: #a99985ff;
+*/
 body {
     margin-top: 2%;
     margin-right: 5%;
     margin-left: 5%;
-    
+    background-color: #f5f1edff;
+    color: #252323ff;
 }
 .nav-top {
     display: flex;

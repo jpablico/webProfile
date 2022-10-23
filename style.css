@@ -30,12 +30,9 @@ body {
     list-style-type: none;
     gap: 1rem;
 }
-.hero-cnt {
-    position: absolute;
-}
+
 .main-CenterTxt {
-    display: flex;
-    flex-direction: row;
+    display: grid;
     margin-top: 10rem;
 }
 .mCt-Portrait  {

@@ -30,13 +30,17 @@ body {
     list-style-type: none;
     gap: 1rem;
 }
-
 .main-CenterTxt {
-    display: grid;
+    display: flex;
     margin-top: 10rem;
 }
 .mCt-Portrait  {
     max-width: fit-content;
     max-height: 20rem;
     border-radius: 1rem;
+}
+.hero-cnt {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
 }

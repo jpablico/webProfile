@@ -5,7 +5,16 @@ Color Pallete
     --isabelline: #f5f1edff;
     --bone: #dad2bcff;
     --grullo: #a99985ff;
+    
+Font Family
+    Title --
+    font-family: 'Space Mono', monospace;
+    Head --
+    font-family: 'Scheherazade New', serif;
+    Body --
+    font-family: 'Telex', sans-serif;
 */
+
 body {
     margin-top: 2%;
     margin-right: 5%;
@@ -43,4 +52,14 @@ body {
     display: flex;
     flex-direction: row;
     gap: 1rem;
+}
+.serivcd-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+}
+.card {
+    width: 4vw;
+    height: 2vh;
 }

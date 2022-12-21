@@ -53,13 +53,15 @@ body {
     flex-direction: row;
     gap: 1rem;
 }
-.serivcd-cards {
+.serivce-cards {
     display: flex;
     flex-direction: row;
     gap: 1rem;
     justify-content: space-between;
 }
 .card {
-    width: 4vw;
+    width: 20vw;
     height: 2vh;
+    background-color: aqua;
+    border: black solid;
 }

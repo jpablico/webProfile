@@ -39,6 +39,9 @@ body {
     list-style-type: none;
     gap: 1rem;
 }
+.nav-linkPage > a:visited {
+    color: black;
+}
 .main-CenterTxt {
     display: flex;
     margin-top: 10rem;
